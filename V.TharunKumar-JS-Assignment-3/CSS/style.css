@@ -1,0 +1,144 @@
+body{
+    color: white;
+}
+.headi{
+    background-color: #170757;
+}
+.head1{
+    display: flex;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+    margin-right: 30px;
+    margin-left: 30px;
+    color: white;
+}
+.head2{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -55px;
+    font-weight: bold;
+}
+.h{
+    margin-top: 7px;
+    margin-bottom: 5px;
+}
+.cimg{
+    font-size : 40px;
+    margin-left: 23px;
+    margin-right: 23px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.main{
+    background-color: #47b2f9;
+    height: 65vh;
+}
+.s1{
+    margin-left: 40px;
+    padding: 5px;
+    color: white;
+    background-color: #170757;
+}
+.box{
+    margin-top: 0px;
+}
+.b1{
+    height: 150px;
+    width: 150px;
+    border: 0px;
+    background-color: #170757;
+    border-radius: 15px;
+}
+.readi{
+    font-size: 75px;
+    padding-top: 12px;
+    padding-bottom: 13px;
+    text-align: center;
+}
+.down{
+    font-size: large;
+    margin-top: -78px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.fl{
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-around;
+}
+.wbox{
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-around;
+}
+.ibox{
+    margin-top: 50px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    width: 70px;
+    border-radius: 6px;
+    border: 0px white;
+    font-size: 30px;
+    justify-content: center;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+.but1{
+    margin-top: 40px;
+    padding: 8px;
+    background-color: #170757;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.but2{
+    margin-top: 40px;
+    padding: 8px;
+    background-color: #d547f9;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.but3{
+    margin-top: 40px;
+    padding: 8px;
+    background-color: #4763f9;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.but4{
+    margin-top: 40px;
+    padding: 8px;
+    background-color: #f80f0f;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.footer{
+    margin-top: -20px;
+    background-color: #170757;
+    height: 30vh;
+}
+.foo{
+    padding-top: 25px;
+    margin-left: 70px;
+}
+.para{
+    padding-left: 50px;
+    margin-bottom: -12px;
+}
